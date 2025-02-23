@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). [Workshop slides](https://www.canva.com/design/DAGeVHw3UPw/re97Mz33IkDq6TfNmBw8nA/edit?utm_content=DAGeVHw3UPw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Getting Started
 
